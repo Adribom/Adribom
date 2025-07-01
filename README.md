@@ -12,24 +12,15 @@
 
 ---
 
-Student at [UNESP - Bauru](https://www.bauru.unesp.br)
+Electrical engineer graduated from [UNESP - Bauru](https://www.bauru.unesp.br). Continuously pursuing professional development in Machine Learning. Experienced in developing ML applications across the entire MLOps pipeline, automation projects using Python, OpenCV, and microcontrollers, as well as Reinforcement Learning through my [undergraduate thesis](https://github.com/Adribom/TG-RL-Hospital). Some knowledge of C++ and C#.
 
-Electrical Engineering student at Unesp in Bauru seeking professionalization in the area of data science and computer vision. Experience with robotics and automation projects in Python using OpenCV and microcontrollers. Currently studying Supervised Learning techniques, SQL and PEP 8. Presentation of research in two scientific initiation congresses, with themes of Reinforcement Learning and Unsupervised Learning.
-
-Acts as People Management Director in a robotics and automation extension project (RAS), addressing culture administration, business and team management, leadership and communication, project management, training and feedback, conflict resolution, DISC methodology , OKRs, Trello, and Miro. Also counting on Scrum Master experience and Scrum Framework practices.
-
-Knowledge in C++ through courses and C# by implementing game projects in Unity.
-<!--
-**Adribom/Adribom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Daily hands-on experience with:
+- Python programming
+- Generative AI
+- Integration of various APIs and SDKs for foundation models, including OpenAI, Bedrock, Vertex AI, DeepSeek, etc.
+- LangChain
+- AWS services
+- SageMaker
+- Docker
+- CI/CD
+- MLOps
